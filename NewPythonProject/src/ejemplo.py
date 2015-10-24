@@ -7,6 +7,8 @@ __date__ = "$24/10/2015 02:48:50 PM$"
 
 if __name__ == "__main__":
     print "Hello World"
+    
 def procedimiento (lista):
     for i in lista:
         print i * "x"
+print i * "x"
