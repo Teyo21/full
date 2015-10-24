@@ -12,3 +12,4 @@ def procedimiento (lista):
     for i in lista:
         print i * "x"
 print i * "x"
+hello baby
